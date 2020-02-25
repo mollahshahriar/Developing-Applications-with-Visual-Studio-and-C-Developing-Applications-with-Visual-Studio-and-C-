@@ -1,0 +1,11 @@
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb

@@ -1,0 +1,11 @@
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\ex03\ex03\bin\Debug\netcoreapp2.1\ex03.deps.json
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\ex03\ex03\bin\Debug\netcoreapp2.1\ex03.runtimeconfig.json
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\ex03\ex03\bin\Debug\netcoreapp2.1\ex03.runtimeconfig.dev.json
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\ex03\ex03\bin\Debug\netcoreapp2.1\ex03.dll
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\ex03\ex03\bin\Debug\netcoreapp2.1\ex03.pdb
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\ex03\ex03\obj\Debug\netcoreapp2.1\ex03.csprojAssemblyReference.cache
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\ex03\ex03\obj\Debug\netcoreapp2.1\ex03.csproj.CoreCompileInputs.cache
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\ex03\ex03\obj\Debug\netcoreapp2.1\ex03.AssemblyInfoInputs.cache
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\ex03\ex03\obj\Debug\netcoreapp2.1\ex03.AssemblyInfo.cs
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\ex03\ex03\obj\Debug\netcoreapp2.1\ex03.dll
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\ex03\ex03\obj\Debug\netcoreapp2.1\ex03.pdb

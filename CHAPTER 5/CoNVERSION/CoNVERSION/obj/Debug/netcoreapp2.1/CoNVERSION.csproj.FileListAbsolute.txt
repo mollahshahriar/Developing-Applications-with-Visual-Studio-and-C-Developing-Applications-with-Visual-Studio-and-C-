@@ -1,0 +1,11 @@
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\CoNVERSION\CoNVERSION\bin\Debug\netcoreapp2.1\CoNVERSION.deps.json
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\CoNVERSION\CoNVERSION\bin\Debug\netcoreapp2.1\CoNVERSION.runtimeconfig.json
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\CoNVERSION\CoNVERSION\bin\Debug\netcoreapp2.1\CoNVERSION.runtimeconfig.dev.json
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\CoNVERSION\CoNVERSION\bin\Debug\netcoreapp2.1\CoNVERSION.dll
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\CoNVERSION\CoNVERSION\bin\Debug\netcoreapp2.1\CoNVERSION.pdb
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\CoNVERSION\CoNVERSION\obj\Debug\netcoreapp2.1\CoNVERSION.csprojAssemblyReference.cache
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\CoNVERSION\CoNVERSION\obj\Debug\netcoreapp2.1\CoNVERSION.csproj.CoreCompileInputs.cache
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\CoNVERSION\CoNVERSION\obj\Debug\netcoreapp2.1\CoNVERSION.AssemblyInfoInputs.cache
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\CoNVERSION\CoNVERSION\obj\Debug\netcoreapp2.1\CoNVERSION.AssemblyInfo.cs
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\CoNVERSION\CoNVERSION\obj\Debug\netcoreapp2.1\CoNVERSION.dll
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\CoNVERSION\CoNVERSION\obj\Debug\netcoreapp2.1\CoNVERSION.pdb
