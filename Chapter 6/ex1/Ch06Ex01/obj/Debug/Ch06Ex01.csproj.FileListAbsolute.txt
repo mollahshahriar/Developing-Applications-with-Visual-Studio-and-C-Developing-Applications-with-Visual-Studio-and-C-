@@ -1,0 +1,6 @@
+C:\Roman VS\Chapter-6-Functions\Ch06Ex01\Ch06Ex01\obj\Debug\Ch06Ex01.csprojAssemblyReference.cache
+C:\Roman VS\Chapter-6-Functions\Ch06Ex01\Ch06Ex01\bin\Debug\Ch06Ex01.exe.config
+C:\Roman VS\Chapter-6-Functions\Ch06Ex01\Ch06Ex01\bin\Debug\Ch06Ex01.exe
+C:\Roman VS\Chapter-6-Functions\Ch06Ex01\Ch06Ex01\bin\Debug\Ch06Ex01.pdb
+C:\Roman VS\Chapter-6-Functions\Ch06Ex01\Ch06Ex01\obj\Debug\Ch06Ex01.exe
+C:\Roman VS\Chapter-6-Functions\Ch06Ex01\Ch06Ex01\obj\Debug\Ch06Ex01.pdb
