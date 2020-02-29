@@ -1,0 +1,12 @@
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\tax\tax\bin\Debug\tax.exe.config
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\tax\tax\bin\Debug\tax.exe
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\tax\tax\bin\Debug\tax.pdb
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\tax\tax\obj\Debug\tax.csprojAssemblyReference.cache
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\tax\tax\obj\Debug\tax.Form1.resources
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\tax\tax\obj\Debug\tax.Properties.Form2.resources
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\tax\tax\obj\Debug\tax.Properties.Form3.resources
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\tax\tax\obj\Debug\tax.Properties.Resources.resources
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\tax\tax\obj\Debug\tax.csproj.GenerateResource.cache
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\tax\tax\obj\Debug\tax.csproj.CoreCompileInputs.cache
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\tax\tax\obj\Debug\tax.exe
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\tax\tax\obj\Debug\tax.pdb
