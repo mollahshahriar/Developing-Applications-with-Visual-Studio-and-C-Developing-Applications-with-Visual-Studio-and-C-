@@ -3,3 +3,6 @@ C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applicat
 C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\tax calculator\tax calculator\obj\Debug\tax_calculator.Properties.Resources.resources
 C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\tax calculator\tax calculator\obj\Debug\tax calculator.csproj.GenerateResource.cache
 C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\tax calculator\tax calculator\obj\Debug\tax calculator.csproj.CoreCompileInputs.cache
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\tax calculator\tax calculator\obj\Debug\tax_calculator.Properties.Form2.resources
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\tax calculator\tax calculator\obj\Debug\tax_calculator.Properties.Form3.resources
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\tax calculator\tax calculator\obj\Debug\tax_calculator.Properties.Form4.resources

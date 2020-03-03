@@ -19,8 +19,7 @@ namespace tax_calculator
 
         private void Button1_Click(object sender, EventArgs e)
         {
-            Form myform = new Form();
-            myform.ShowDialog();
+            
         }
 
         private void Button2_Click(object sender, EventArgs e)

@@ -10,3 +10,6 @@ C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applicat
 C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\tax\tax\obj\Debug\tax.csproj.CoreCompileInputs.cache
 C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\tax\tax\obj\Debug\tax.exe
 C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\tax\tax\obj\Debug\tax.pdb
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\tax\tax\obj\Debug\tax.Properties.Form1.resources
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\tax\tax\obj\Debug\tax.Properties.sales.resources
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 5\tax\tax\obj\Debug\tax.Properties.properti.resources

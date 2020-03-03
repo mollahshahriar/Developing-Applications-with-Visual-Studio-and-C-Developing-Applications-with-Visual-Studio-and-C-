@@ -1,0 +1,5 @@
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 15\ch15ex01\ch15ex01\obj\Debug\ch15ex01.csprojAssemblyReference.cache
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 15\ch15ex01\ch15ex01\obj\Debug\MainWindow.g.cs
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 15\ch15ex01\ch15ex01\obj\Debug\App.g.cs
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 15\ch15ex01\ch15ex01\obj\Debug\ch15ex01_MarkupCompile.cache
+C:\february\Developing-Applications-with-Visual-Studio-and-C-Developing-Applications-with-Visual-Studio-and-C-\CHAPTER 15\ch15ex01\ch15ex01\obj\Debug\ch15ex01_MarkupCompile.lref
