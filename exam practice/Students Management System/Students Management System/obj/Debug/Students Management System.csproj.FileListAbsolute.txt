@@ -1,0 +1,9 @@
+C:\february\exam practice\Students Management System\Students Management System\obj\Debug\Students_Management_System.Main_window.resources
+C:\february\exam practice\Students Management System\Students Management System\obj\Debug\Students_Management_System.Properties.Resources.resources
+C:\february\exam practice\Students Management System\Students Management System\obj\Debug\Students Management System.csproj.GenerateResource.cache
+C:\february\exam practice\Students Management System\Students Management System\obj\Debug\Students Management System.csproj.CoreCompileInputs.cache
+C:\february\exam practice\Students Management System\Students Management System\bin\Debug\Students Management System.exe.config
+C:\february\exam practice\Students Management System\Students Management System\bin\Debug\Students Management System.exe
+C:\february\exam practice\Students Management System\Students Management System\bin\Debug\Students Management System.pdb
+C:\february\exam practice\Students Management System\Students Management System\obj\Debug\Students Management System.exe
+C:\february\exam practice\Students Management System\Students Management System\obj\Debug\Students Management System.pdb
